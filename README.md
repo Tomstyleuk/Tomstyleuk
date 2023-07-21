@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I frequently recreate cool animations and interactive scroll designs using JavaScript and GSAP to hone my skills.<br><br>🤝 I am seeking assistance with implementing interactive animations using GSAP and Three.js.<br><br>🌱 Currently, I am learning Three.js and GSAP to create interactive websites for real projects.<br><br>⚡ Before becoming a web developer, I worked as a cook at a Japanese restaurant. My hobbies include singing Harry Styles's songs, SUP, hiking, and playing on the Nintendo Switch.
+👯 I frequently recreate cool animations and interactive scroll designs using JavaScript and GSAP to hone my skills. You can find more <a href="https://toms-webgellary.vercel.app/" target="_blank">here</a>.<br><br>🤝 I am looking for help with implementing interactive animations using GSAP and Three.js.<br><br>🌱 Currently, I am learning Three.js and GSAP to create interactive websites for real projects.<br><br>⚡ Before becoming a web developer, I worked as a cook at a Japanese restaurant. My hobbies include singing Harry Styles's songs, SUP, hiking, and playing on the Nintendo Switch.
 
 
 ## 🌐 Socials:
