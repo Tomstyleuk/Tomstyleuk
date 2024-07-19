@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I frequently recreate cool animations and interactive scroll designs using JavaScript and GSAP to hone my skills. You can find more <a href="https://toms-webgellary.vercel.app/" target="_blank">here</a>.<br><br>🤝 I love creating interactive animations using GSAP and Three.js.<br><br>🌱 Currently, I am learning WebGL to create interactive websites. <a href="https://www.tomoya-takinami.com/" target="_blank">Portfolio</a><br><br>
+👯 I frequently recreate cool interactive animations using JavaScript and GSAP to hone my skills. You can find more <a href="https://toms-webgellary.vercel.app/" target="_blank">here</a>.<br><br>🤝 I love creating interactive animations using GSAP and Three.js.<br><br>🌱 Currently, I am learning WebGL to create interactive websites. <a href="https://www.tomoya-takinami.com/" target="_blank">Portfolio</a><br><br>
 
 
 ## 🌐 Socials:
